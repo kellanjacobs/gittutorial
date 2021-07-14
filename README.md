@@ -12,6 +12,6 @@ Actors who have played Doctor who
 8. Paul McGann
 9. Christopher Eccleston
 10. David Tennant
-12. Peter Capaldi
-13. Matt Smith
+12. Matt Smith
+13. Peter Capaldi
 14. Jodie Whittaker
